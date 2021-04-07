@@ -527,7 +527,7 @@ const sportsNewsArticles = [
     tst: "c1m04highhqg8nv5flo0",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/rumour-has-it-de-gea-to-leave-united-as-his-representatives-explore-their-options-7-29x3i40dcd4n13wp4iudaq39z.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/rumour-has-it-de-gea-to-leave-united-as-his-representatives-explore-their-options-7-29x3i40dcd4n13wp4iudaq39z.jpg",
     cap: "Manchester United goalkeeper David de Gea",
     aut: "Ben Somerford",
@@ -546,7 +546,7 @@ const sportsNewsArticles = [
     tst: "c1lrqm2ghhqg8nv5flng",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/ronald-koeman-el-clasico-7-nyyp0wqt9kkczanr7dtkhgbq.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/ronald-koeman-el-clasico-7-nyyp0wqt9kkczanr7dtkhgbq.jpg",
     cap: "Barcelona head coach Ronald Koeman",
     aut: "Ben Somerford",
@@ -566,7 +566,7 @@ const sportsNewsArticles = [
     tst: "c1lppvaghhqg8nv5flm0",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/hes-made-a-big-difference-moyes-hails-lingard-impact-7-1w8jnt7o5gz991or9r4to3z3q6.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/hes-made-a-big-difference-moyes-hails-lingard-impact-7-1w8jnt7o5gz991or9r4to3z3q6.jpg",
     cap: "Moyes Lingard",
     aut: "Ben Somerford",
@@ -586,7 +586,7 @@ const sportsNewsArticles = [
     tst: "c1lpavighhqg8nv5flj0",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/koeman-barcelona-had-to-suffer-to-beat-valladolid-7-16cxqju3cq7631ikl79uiiyczm.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/koeman-barcelona-had-to-suffer-to-beat-valladolid-7-16cxqju3cq7631ikl79uiiyczm.jpg",
     cap: "Ronald Koeman during Barcelona's win over Valladolid",
     aut: "Dom Farrell",
@@ -606,7 +606,7 @@ const sportsNewsArticles = [
     tst: "c1lojvqghhqg8nv5flig",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/barca-ousmane-dembele-benefits-of-hard-toil-clement-lenglet-7-1dkm5y21ncn8q1aor73c6wlrh7.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/barca-ousmane-dembele-benefits-of-hard-toil-clement-lenglet-7-1dkm5y21ncn8q1aor73c6wlrh7.jpg",
     cap: "Ousmane Dembele scored late on to sink Real Valladolid",
     aut: "Dom Farrell",
@@ -627,7 +627,7 @@ const sportsNewsArticles = [
     tst: "c1lnm1ighhqg8nv5flgg",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/barcelona-1-0-real-valladolid-last-gasp-dembele-winner-laliga-title-race-7-1mbe08g2j6c6l1fmlvzwk0c1lh.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/barcelona-1-0-real-valladolid-last-gasp-dembele-winner-laliga-title-race-7-1mbe08g2j6c6l1fmlvzwk0c1lh.jpg",
     cap: "Ousmane Dembele celebrates his winner against Real Valladolid",
     aut: "Dom Farrell",
@@ -648,7 +648,7 @@ const sportsNewsArticles = [
     tst: "c1lm9saghhqg8nv5flmg",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/jurgen-klopp-says-liverpool-not-on-revenge-tour-as-they-prepare-to-face-real-madrid-in-champions-league-quarter-finals-7-zczc2w87rne61metjfsie6umw.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/jurgen-klopp-says-liverpool-not-on-revenge-tour-as-they-prepare-to-face-real-madrid-in-champions-league-quarter-finals-7-zczc2w87rne61metjfsie6umw.jpg",
     cap: "Jurgen Klopp's Liverpool face Real Madrid on Tuesday",
     aut: "Daniel Lewis",
@@ -667,7 +667,7 @@ const sportsNewsArticles = [
     tst: "c1lm82aghhqg8nv5flf0",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/west-ham-confirm-declan-rice-knee-injury-7-aytu0a8lk2x41rr1x7qel77s7.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/west-ham-confirm-declan-rice-knee-injury-7-aytu0a8lk2x41rr1x7qel77s7.jpg",
     cap: "West Ham midfielder Declan Rice",
     aut: "Peter Thompson",
@@ -688,7 +688,7 @@ const sportsNewsArticles = [
     tst: "c1llemighhqg8nv5fld0",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/kane-eyes-cole-feat-mourinho-dreaming-of-man-utd-record-premier-league-weekends-quirky-facts-7-qk0gmssb6ik81svlge3qhjuxn.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/kane-eyes-cole-feat-mourinho-dreaming-of-man-utd-record-premier-league-weekends-quirky-facts-7-qk0gmssb6ik81svlge3qhjuxn.jpg",
     cap:
       "Harry Kane netted two more goals at the weekend, but it wasn't enough for Spurs",
@@ -710,7 +710,7 @@ const sportsNewsArticles = [
     tst: "c1ll9r2ghhqg8nv5flcg",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/erling-haaland-unaffected-transfer-circus-borussia-dortmund-man-city-7-fani0xcqij9t17c85any6zplr.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/erling-haaland-unaffected-transfer-circus-borussia-dortmund-man-city-7-fani0xcqij9t17c85any6zplr.jpg",
     cap: "Borussia Dortmund striker Erling Haaland",
     aut: "Dom Farrell",
@@ -731,7 +731,7 @@ const sportsNewsArticles = [
     tst: "c1lk7uighhqg8nv5fldg",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/erling-haaland-ruben-dias-battle-will-be-key-in-man-city-v-dortmund-says-wright-phillips-7-mlted83vsvxc1nj6x95y41ros.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/erling-haaland-ruben-dias-battle-will-be-key-in-man-city-v-dortmund-says-wright-phillips-7-mlted83vsvxc1nj6x95y41ros.jpg",
     cap: "Erling Haaland and Ruben Dias will face off on Tuesday",
     aut: "Dom Farrell",
@@ -752,7 +752,7 @@ const sportsNewsArticles = [
     tst: "c1ljfaaghhqg8nv5fln0",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/mouctar-diakhaby-subjected-to-extremely-serious-racial-insult-claims-valencia-president-7-1njw0jeaorjel1mwedfn63e5pl.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/mouctar-diakhaby-subjected-to-extremely-serious-racial-insult-claims-valencia-president-7-1njw0jeaorjel1mwedfn63e5pl.jpg",
     cap: "Valencia defender Mouctar Diakhaby",
     aut: "Guy Atkinson",
@@ -773,7 +773,7 @@ const sportsNewsArticles = [
     tst: "c1lioaighhqg8nv5flb0",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/real-madrid-defender-nacho-fernandez-monitoring-sergio-ramos-situation-before-making-contract-decision-7-1m4epszlwyh6a108p7okul6spz.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/real-madrid-defender-nacho-fernandez-monitoring-sergio-ramos-situation-before-making-contract-decision-7-1m4epszlwyh6a108p7okul6spz.jpg",
     cap:
       "Nacho Fernandez has a little over a year to run on his Real Madrid contract",
@@ -795,7 +795,7 @@ const sportsNewsArticles = [
     tst: "c1lhmtaghhqg8nv5fle0",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/pep-guardiola-blind-guy-would-realise-erling-haaland-quality-ahead-man-city-borussia-dortmund-champions-league-tie-7-eoep1fgov5es1sexe7x9kh2r4.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/pep-guardiola-blind-guy-would-realise-erling-haaland-quality-ahead-man-city-borussia-dortmund-champions-league-tie-7-eoep1fgov5es1sexe7x9kh2r4.jpg",
     cap: "Borussia Dortmund striker Erling Haaland",
     aut: "Ryan Benson",
@@ -815,7 +815,7 @@ const sportsNewsArticles = [
     tst: "c1lhknqghhqg8nv5fla0",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/real-madrid-confirm-eden-hazard-absence-for-liverpool-champions-league-first-leg-7-16wlw624e9g071ouztq7oc5n4v.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/real-madrid-confirm-eden-hazard-absence-for-liverpool-champions-league-first-leg-7-16wlw624e9g071ouztq7oc5n4v.jpg",
     cap: "Eden Hazard has been ruled out of Real Madrid's clash with Liverpool",
     aut: "Daniel Lewis",
@@ -836,7 +836,7 @@ const sportsNewsArticles = [
     tst: "c1lghn2ghhqg8nv5fli0",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/eden-hazard-not-rushed-back-for-real-madrid-champions-league-clash-with-liverpool-insists-zinedine-zidane-7-12e8drj2mouaz1gf8sz6gzgam1.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/eden-hazard-not-rushed-back-for-real-madrid-champions-league-clash-with-liverpool-insists-zinedine-zidane-7-12e8drj2mouaz1gf8sz6gzgam1.jpg",
     cap: "Eden Hazard of Real Madrid",
     aut: "Guy Atkinson",
@@ -857,7 +857,7 @@ const sportsNewsArticles = [
     tst: "c1lfmv2ghhqg8nv5flag",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/real-madrid-v-liverpool-modric-journey-flop-to-ballon-dor-winner-inspiration-for-thiago-7-ccwj50a7v7sb1juf791u0dnc2.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/real-madrid-v-liverpool-modric-journey-flop-to-ballon-dor-winner-inspiration-for-thiago-7-ccwj50a7v7sb1juf791u0dnc2.jpg",
     cap:
       "Thiago Alcantara's had a tricky first season at Liverpool - Luka Modric knows what that's like, having struggled initially at Real Madrid",
@@ -879,7 +879,7 @@ const sportsNewsArticles = [
     tst: "c1lev6ighhqg8nv5fl70",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/cadiz-juan-cala-face-media-racism-allegations-tuesday-valencia-mouctar-diakhaby-7-glr0h4ntedsj1ehv3teodfwpq.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/cadiz-juan-cala-face-media-racism-allegations-tuesday-valencia-mouctar-diakhaby-7-glr0h4ntedsj1ehv3teodfwpq.jpg",
     cap:
       "Cadiz's Juan Cala will speak to the media on Tuesday following racism allegations",
@@ -900,7 +900,7 @@ const sportsNewsArticles = [
     tst: "c1let3qghhqg8nv5fl7g",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/youssoufa-moukoko-record-breaking-season-ended-abruptly-by-injury-7-19n9wq5zsdaqe1qr4cuixvdbad.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/youssoufa-moukoko-record-breaking-season-ended-abruptly-by-injury-7-19n9wq5zsdaqe1qr4cuixvdbad.jpg",
     cap: "Youssoufa Moukoko's season is over",
     aut: "Ryan Benson",
@@ -921,7 +921,7 @@ const sportsNewsArticles = [
     tst: "c1lepmaghhqg8nv5fl6g",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/borussia-dortmund-no-alternative-erling-haaland-would-listen-exceptional-jadon-sancho-offer-watzke-7-g75now3d0aqh11zemobxulm7d.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/borussia-dortmund-no-alternative-erling-haaland-would-listen-exceptional-jadon-sancho-offer-watzke-7-g75now3d0aqh11zemobxulm7d.jpg",
     cap: "Borussia Dortmund pair Erling Haaland (l) and Jadon Sancho celebrate",
     aut: "Guy Atkinson",
@@ -942,7 +942,7 @@ const sportsNewsArticles = [
     tst: "c1le4k2ghhqg8nv5fl60",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/pep-guardiola-number-nine-erling-haaland-audition-man-city-borussia-dortmund-7-16jjwkxtmm6zy11n8t573ldsbg.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/pep-guardiola-number-nine-erling-haaland-audition-man-city-borussia-dortmund-7-16jjwkxtmm6zy11n8t573ldsbg.jpg",
     cap: "Borussia Dortmund striker Erling Haaland",
     aut: "Dom Farrell",
@@ -962,7 +962,7 @@ const sportsNewsArticles = [
     tst: "c1lcrnighhqg8nv5fl40",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/alessandro-florenzi-psg-star-to-miss-bayern-munich-game-positive-covid-19-test-7-1of54sqduah9u1ozwaq2zsyhv3.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/alessandro-florenzi-psg-star-to-miss-bayern-munich-game-positive-covid-19-test-7-1of54sqduah9u1ozwaq2zsyhv3.jpg",
     cap:
       "PSG full-back Alessandro Florenzi will miss the Champions League quarter-final first leg against Bayern Munich",
@@ -983,7 +983,7 @@ const sportsNewsArticles = [
     tst: "c1lb6pqghhqg8nv5fl20",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/rumour-has-it-lukaku-barcelona-inter-cristiano-ronaldo-juventus-7-1cglo33ya0yuk12piflmfdbdin.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/rumour-has-it-lukaku-barcelona-inter-cristiano-ronaldo-juventus-7-1cglo33ya0yuk12piflmfdbdin.jpg",
     cap: "Romelu Lukaku is crucial to Inter's Scudetto hopes",
     aut: "Sacha Pisani",
@@ -1003,7 +1003,7 @@ const sportsNewsArticles = [
     tst: "c1la8c2ghhqg8nv5fkvg",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/psg-di-maria-messi-barcelona-transfer-news-7-6tfv7d3stssz1b070adt7mjum.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/psg-di-maria-messi-barcelona-transfer-news-7-6tfv7d3stssz1b070adt7mjum.jpg",
     cap: "",
     aut: "Sacha Pisani",
@@ -1023,7 +1023,7 @@ const sportsNewsArticles = [
     tst: "c1l6ugqghhqg8nv5fkt0",
     thb:
       "https://news.livescore.com/newsapi/04/soccer/thumb/diego-simeone-atletico-madrid-laliga-sevilla-7-1mvb6880bfa7e1n57ghvfiftd3.jpg",
-    md:
+    img:
       "https://news.livescore.com/newsapi/04/soccer/image/diego-simeone-atletico-madrid-laliga-sevilla-7-1mvb6880bfa7e1n57ghvfiftd3.jpg",
     cap: "Atletico Madrid head coach Diego Simeone",
     aut: "Sacha Pisani",

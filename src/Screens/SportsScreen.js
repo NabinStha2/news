@@ -10,7 +10,7 @@ const SportsScreen = () => {
         <Col md={7} lg={8}>
           <SportsCard
             image={sportsNewsArticles[0].img}
-            title={sportsNewsArticles[0].title}
+            title={sportsNewsArticles[0].tit}
             id={sportsNewsArticles[0].id}
           />
         </Col>
