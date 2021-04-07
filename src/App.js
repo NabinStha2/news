@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import BusinessScreen from "./Screens/BusinessScreen";
+import DetailsScreen from "./Screens/DetailsScreen";
+import HomeScreen from "./Screens/HomeScreen";
+import LogInScreen from "./Screens/LogInScreen";
+import RegisterScreen from "./Screens/RegisterScreen";
+import SportsScreen from "./Screens/SportsScreen";
+import EntertainmentScreen from "./Screens/EntertainmentScreen";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Header />
+      <Route path="/" component={HomeScreen} exact />
+      <Route path="/business" component={BusinessScreen} exact />
+      <Route path="/sports" component={SportsScreen} exact />
+      <Route path="/login" component={LogInScreen} exact />
+      <Route path="/register" component={RegisterScreen} exact />
+      <Route path="/details/:id" component={DetailsScreen} exact />
+      <Route path="/search/:keyword" component={HomeScreen} exact />
+      <Route path="/entertainment" component={EntertainmentScreen} exact />
+      <Footer />
+    </Router>
   );
-}
+};
 
 export default App;
